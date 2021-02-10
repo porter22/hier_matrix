@@ -1,0 +1,178 @@
+{
+  "nodes": [
+    {
+      "name": "variants",
+      "children": [
+        {
+          "name": "variant blue car"
+        },
+        {
+          "name": "variant red car"
+        },
+        {
+          "name": "variant pink car"
+        }
+      ]
+    },
+    {
+      "name": "system functions",
+      "children": [
+        {
+          "name": "color general"
+        },
+        {
+          "name": "color blue"
+        },
+        {
+          "name": "color red"
+        },
+        {
+          "name": "color pink"
+        }
+      ]
+    },
+    {
+      "name": "requirements",
+      "children": [
+        {
+          "name": "bumper black",
+          "description": "The bumper of the car shall be black"
+        },
+        {
+          "name": "door blue"
+        },
+        {
+          "name": "hood blue"
+        },
+        {
+          "name": "door red"
+        },
+        {
+          "name": "hood red"
+        },
+        {
+          "name": "door pink"
+        },
+        {
+          "name": "hood pink"
+        }
+      ]
+    },
+    {
+      "name": "architecture",
+      "children": [
+        {
+          "name": "bumper"
+        },
+        {
+          "name": "door"
+        },
+        {
+          "name": "hood"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "bumper",
+      "target": "bumper black",
+      "value": ">allocates"
+    },
+    {
+      "source": "door",
+      "target": "door red",
+      "value": ">allocates"
+    },
+    {
+      "source": "door",
+      "target": "door pink",
+      "value": ">allocates"
+    },
+    {
+      "source": "hood",
+      "target": "hood blue",
+      "value": ">allocates"
+    },
+    {
+      "source": "hood",
+      "target": "hood red",
+      "value": ">allocates"
+    },
+    {
+      "source": "hood",
+      "target": "hood pink",
+      "value": ">allocates"
+    },
+    {
+      "source": "hood",
+      "target": "hood blue",
+      "value": ">allocates"
+    },
+    {
+      "source": "color pink",
+      "target": "hood pink",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color pink",
+      "target": "door pink",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color red",
+      "target": "hood red",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color red",
+      "target": "door red",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color blue",
+      "target": "hood blue",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color blue",
+      "target": "door blue",
+      "value": "<has_parent"
+    },
+    {
+      "source": "color general",
+      "target": "bumper black",
+      "value": "<has_parent"
+    },
+    {
+      "source": "variant red car",
+      "target": "color red",
+      "value": "<is_contained_by"
+    },
+    {
+      "source": "variant red car",
+      "target": "color general",
+      "value": "<is_contained_by"
+    },
+    {
+      "source": "variant blue car",
+      "target": "color blue",
+      "value": "<is_contained_by"
+    },
+    {
+      "source": "variant blue car",
+      "target": "color general",
+      "value": "<is_contained_by"
+    },
+    {
+      "source": "variant pink car",
+      "target": "color pink",
+      "value": "<is_contained_by"
+    },
+    {
+      "source": "variant pink car",
+      "target": "color general",
+      "value": "<is_contained_by"
+    }
+  ]
+}

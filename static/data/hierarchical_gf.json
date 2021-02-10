@@ -1,0 +1,940 @@
+{
+    "nodes": [
+     {
+      "name": "STAKEHOLDER REQUIREMENTS",
+      "type": "STAKEHOLDER REQUIREMENTS",
+      "children": [
+       {
+        "id": "1412068",
+        "section": "s1",
+        "name": "s1",
+        "description": "# 1 Executive Summary",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412069",
+          "section": "s1.1",
+          "name": "s1.1",
+          "description": "## 1.1 Business transformation & must win battles",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412070",
+            "section": "s1.1.0-1",
+            "name": "s1.1.0-1",
+            "description": "This section is for setting the scene for the reader of a printed stakeholder requirements specification Incl. Description of value proposition, key buying factors, value chain and revenue stream Incl. Link to current group strategy e.g. 2025",
+            "requirements": null,
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412071",
+          "section": "s1.2",
+          "name": "s1.2",
+          "description": "## 1.2 Playing field",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412072",
+            "section": "s1.2.0-1",
+            "name": "s1.2.0-1",
+            "description": "This section is for setting the scene for the reader of a printed stakeholder requirements specification   ---",
+            "requirements": null,
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412073",
+          "section": "s1.3",
+          "name": "s1.3",
+          "description": "## 1.3 Application description",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412074",
+            "section": "s1.3.0-1",
+            "name": "s1.3.0-1",
+            "description": "This section is for setting the scene for the reader of a printed stakeholder requirements specification",
+            "requirements": null,
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412075",
+        "section": "s2",
+        "name": "s2",
+        "description": "# 2 Product Development",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412076",
+          "section": "s2.1",
+          "name": "s2.1",
+          "description": "## 2.1 Sustainability",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412077",
+            "section": "s2.1.0-1",
+            "name": "s2.1.0-1",
+            "description": "The environmental impact of a product must be assessed in consultation with Product Compliance prior to DP2 in form of a mapping exercise, in which the relevant sustainability stakeholder requirements are defined.",
+            "requirements": "1412158.1412126.1412158.1412123",
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412078",
+          "section": "s2.2",
+          "name": "s2.2",
+          "description": "## 2.2 Product design, User Experience & User Interface",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412079",
+          "section": "s2.3",
+          "name": "s2.3",
+          "description": "## 2.3 Quality targets",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412080",
+            "section": "s2.3.0-1",
+            "name": "s2.3.0-1",
+            "description": "Overall warranty and life time targets must be specified. An evaluation must be made whether the new product will be within the scope of the long-term quality strategy for the product field in question",
+            "requirements": "1412158.1412126",
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412081",
+          "section": "s2.4",
+          "name": "s2.4",
+          "description": "## 2.4 Backwards compatibility",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412165",
+            "section": "s2.4.0-1",
+            "name": "s2.4.0-1",
+            "description": "The stakeholder shall be able to visualize ...",
+            "requirements": "1412158.1412162",
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412082",
+        "section": "s3",
+        "name": "s3",
+        "description": "# 3 Production",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412083",
+          "section": "s3.1",
+          "name": "s3.1",
+          "description": "## 3.1 Supply chain",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412084",
+          "section": "s3.2",
+          "name": "s3.2",
+          "description": "## 3.2 Production Footprint",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412086",
+          "section": "s3.3",
+          "name": "s3.3",
+          "description": "## 3.3 Design for Manufacturing and Assembly",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412087",
+          "section": "s3.4",
+          "name": "s3.4",
+          "description": "## 3.4 Production technologies",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412088",
+        "section": "s4",
+        "name": "s4",
+        "description": "# 4 Logistics, distribution and packaging",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412091",
+          "section": "s4.1",
+          "name": "s4.1",
+          "description": "## 4.1 Packaging",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412092",
+          "section": "s4.2",
+          "name": "s4.2",
+          "description": "## 4.2 Design For Distribution and Logistics",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412093",
+          "section": "s4.3",
+          "name": "s4.3",
+          "description": "## 4.3 Target Lead Time",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412094",
+        "section": "s5",
+        "name": "s5",
+        "description": "# 5 Sales & Marketing",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412095",
+          "section": "s5.1",
+          "name": "s5.1",
+          "description": "## 5.1 Standards, Approvals, Marks and Certifications",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412096",
+          "section": "s5.2",
+          "name": "s5.2",
+          "description": "## 5.2 Target regions",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412098",
+          "section": "s5.3",
+          "name": "s5.3",
+          "description": "## 5.3 Target prices and costs",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412099",
+        "section": "s6",
+        "name": "s6",
+        "description": "# 6 Selection, Installation & Commissioning",
+        "requirements": null,
+        "children": [],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412100",
+        "section": "s7",
+        "name": "s7",
+        "description": "# 7 Usage",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412101",
+          "section": "s7.1",
+          "name": "s7.1",
+          "description": "## 7.1 Usage functions",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412102",
+          "section": "s7.2",
+          "name": "s7.2",
+          "description": "## 7.2 User interactions",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       },
+       {
+        "id": "1412105",
+        "section": "s8",
+        "name": "s8",
+        "description": "# 8 Service and replacement",
+        "requirements": null,
+        "children": [
+         {
+          "id": "1412106",
+          "section": "s8.1",
+          "name": "s8.1",
+          "description": "## 8.1 Serviceabillity",
+          "requirements": null,
+          "children": [
+           {
+            "id": "1412107",
+            "section": "s8.1.0-1",
+            "name": "s8.1.0-1",
+            "description": "Describe the needs for service of the products developed. Remember to make a reference to Group Service Homepage for further information about this matter.",
+            "requirements": "1412158.1412163",
+            "children": [],
+            "type": "STAKEHOLDER REQUIREMENTS"
+           }
+          ],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         },
+         {
+          "id": "1412108",
+          "section": "s8.2",
+          "name": "s8.2",
+          "description": "## 8.2 Replacement and retrofitting",
+          "requirements": null,
+          "children": [],
+          "type": "STAKEHOLDER REQUIREMENTS"
+         }
+        ],
+        "type": "STAKEHOLDER REQUIREMENTS"
+       }
+      ]
+     },
+     {
+      "name": "SYSTEM REQUIREMENTS",
+      "type": "SYSTEM REQUIREMENTS",
+      "children": [
+       {
+        "id": "1412121",
+        "section": "1",
+        "name": "1",
+        "description": "# 1 Functional Capabilities",
+        "lvl1_arch": null,
+        "lvl2_arch": null,
+        "test": null,
+        "test_results": null,
+        "test_conclusions": null,
+        "children": [
+         {
+          "id": "1412122",
+          "section": "1.1",
+          "name": "1.1",
+          "description": "## 1.1 Feature A",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412123",
+            "section": "1.1.0-1",
+            "name": "1.1.0-1",
+            "description": "The system shall ",
+            "lvl1_arch": "Pump-end",
+            "lvl2_arch": "Base unit, Sleeve unit, Staybolt unit",
+            "test": "150110_142812_54146",
+            "test_results": "Passed",
+            "test_conclusions": "Passed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412125",
+          "section": "1.2",
+          "name": "1.2",
+          "description": "## 1.2 Feature C",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412126",
+            "section": "1.2.0-1",
+            "name": "1.2.0-1",
+            "description": "The system shall",
+            "lvl1_arch": "Motor",
+            "lvl2_arch": null,
+            "test": "190415_071654_1310;140508_152322_51646",
+            "test_results": "Failed;Passed",
+            "test_conclusions": "Failed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         }
+        ],
+        "type": "SYSTEM REQUIREMENTS"
+       },
+       {
+        "id": "1412128",
+        "section": "2",
+        "name": "2",
+        "description": "# 2 Performance Capabilities",
+        "lvl1_arch": null,
+        "lvl2_arch": null,
+        "test": null,
+        "test_results": null,
+        "test_conclusions": null,
+        "children": [
+         {
+          "id": "1412129",
+          "section": "2.1",
+          "name": "2.1",
+          "description": "## 2.1 Power drive system performance",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412161",
+            "section": "2.1.0-1",
+            "name": "2.1.0-1",
+            "description": "The system shall",
+            "lvl1_arch": "Motor",
+            "lvl2_arch": null,
+            "test": "150110_142812_54146",
+            "test_results": "Passed",
+            "test_conclusions": "Passed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412130",
+          "section": "2.2",
+          "name": "2.2",
+          "description": "## 2.2 Hydraulic performance",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412160",
+            "section": "2.2.0-1",
+            "name": "2.2.0-1",
+            "description": "The system shall ",
+            "lvl1_arch": "Pump-end",
+            "lvl2_arch": "Base unit, Coupling unit",
+            "test": "190415_071654_1310",
+            "test_results": "Failed",
+            "test_conclusions": "Failed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412131",
+          "section": "2.3",
+          "name": "2.3",
+          "description": "## 2.3 System efficiency",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412123",
+            "section": "2.3.0-1",
+            "name": "2.3.0-1",
+            "description": "The system shall ",
+            "lvl1_arch": "Pump-end",
+            "lvl2_arch": "Base unit, Sleeve unit, Staybolt unit",
+            "test": "150110_142812_54146",
+            "test_results": "Passed",
+            "test_conclusions": "Passed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           },
+           {
+            "id": "1412164",
+            "section": "2.3.0-2",
+            "name": "2.3.0-2",
+            "description": "The system shall",
+            "lvl1_arch": "Pump-end",
+            "lvl2_arch": "Coupling unit, Shaft seal unit, Sleeve unit, Top unit",
+            "test": "190415_071654_1310",
+            "test_results": "Failed",
+            "test_conclusions": "Failed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         }
+        ],
+        "type": "SYSTEM REQUIREMENTS"
+       },
+       {
+        "id": "1412134",
+        "section": "3",
+        "name": "3",
+        "description": "# 3 Interface Capabilities",
+        "lvl1_arch": null,
+        "lvl2_arch": null,
+        "test": null,
+        "test_results": null,
+        "test_conclusions": null,
+        "children": [
+         {
+          "id": "1412135",
+          "section": "3.1",
+          "name": "3.1",
+          "description": "## 3.1 Mechanical and geometrical interface",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412136",
+            "section": "3.1.0-1",
+            "name": "3.1.0-1",
+            "description": "The system shall",
+            "lvl1_arch": "Motor, Pump-end",
+            "lvl2_arch": "Coupling unit, Shaft seal unit",
+            "test": "190415_071654_1310;140508_152322_51646",
+            "test_results": "Failed;Passed",
+            "test_conclusions": "Failed",
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412137",
+          "section": "3.2",
+          "name": "3.2",
+          "description": "## 3.2 Material transfer interface",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412138",
+          "section": "3.3",
+          "name": "3.3",
+          "description": "## 3.3 Communication and information interface",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412139",
+          "section": "3.4",
+          "name": "3.4",
+          "description": "## 3.4 Energy interface",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [],
+          "type": "SYSTEM REQUIREMENTS"
+         }
+        ],
+        "type": "SYSTEM REQUIREMENTS"
+       },
+       {
+        "id": "1412140",
+        "section": "4",
+        "name": "4",
+        "description": "# 4 Safety and Compliance",
+        "lvl1_arch": null,
+        "lvl2_arch": null,
+        "test": null,
+        "test_results": null,
+        "test_conclusions": null,
+        "children": [
+         {
+          "id": "1412141",
+          "section": "4.1",
+          "name": "4.1",
+          "description": "## 4.1 Approvals",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412162",
+            "section": "4.1.0-1",
+            "name": "4.1.0-1",
+            "description": "The system shall",
+            "lvl1_arch": "Packing",
+            "lvl2_arch": null,
+            "test": null,
+            "test_results": null,
+            "test_conclusions": null,
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         },
+         {
+          "id": "1412142",
+          "section": "4.2",
+          "name": "4.2",
+          "description": "## 4.2 Marking",
+          "lvl1_arch": null,
+          "lvl2_arch": null,
+          "test": null,
+          "test_results": null,
+          "test_conclusions": null,
+          "children": [
+           {
+            "id": "1412163",
+            "section": "4.2.0-1",
+            "name": "4.2.0-1",
+            "description": "The system shall",
+            "lvl1_arch": null,
+            "lvl2_arch": null,
+            "test": null,
+            "test_results": null,
+            "test_conclusions": null,
+            "children": [],
+            "type": "SYSTEM REQUIREMENTS"
+           }
+          ],
+          "type": "SYSTEM REQUIREMENTS"
+         }
+        ],
+        "type": "SYSTEM REQUIREMENTS"
+       }
+      ]
+     },
+     {
+      "name": "LEVEL1_ARCHITECTURE",
+      "type": "LEVEL1_ARCHITECTURE",
+      "children": [
+       {
+        "name": "Pump-end",
+        "type": "LEVEL1_ARCHITECTURE"
+       },
+       {
+        "name": "Motor",
+        "type": "LEVEL1_ARCHITECTURE"
+       },
+       {
+        "name": "Packing",
+        "type": "LEVEL1_ARCHITECTURE"
+       }
+      ]
+     },
+     {
+      "name": "LEVEL2_ARCHITECTURE",
+      "type": "LEVEL2_ARCHITECTURE",
+      "children": [
+       {
+        "name": "Base unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       },
+       {
+        "name": "Sleeve unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       },
+       {
+        "name": "Staybolt unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       },
+       {
+        "name": "Coupling unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       },
+       {
+        "name": "Shaft seal unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       },
+       {
+        "name": "Top unit",
+        "type": "LEVEL2_ARCHITECTURE"
+       }
+      ]
+     },
+     {
+      "name": "TESTS",
+      "type": "TESTS",
+      "children": [
+       {
+        "name": "150110_142812_54146",
+        "type": "TESTS"
+       },
+       {
+        "name": "190415_071654_1310",
+        "type": "TESTS"
+       },
+       {
+        "name": "140508_152322_51646",
+        "type": "TESTS"
+       }
+      ]
+     }
+    ],
+    "links": [
+     {
+      "source": "1.1.0-1",
+      "target": "Pump-end",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "1.1.0-1",
+      "target": "Base unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "1.1.0-1",
+      "target": "Sleeve unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "1.1.0-1",
+      "target": "Staybolt unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "1.2.0-1",
+      "target": "Motor",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.1.0-1",
+      "target": "Motor",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.2.0-1",
+      "target": "Pump-end",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.2.0-1",
+      "target": "Base unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.2.0-1",
+      "target": "Coupling unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-1",
+      "target": "Pump-end",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-1",
+      "target": "Base unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-1",
+      "target": "Sleeve unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-1",
+      "target": "Staybolt unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "Pump-end",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "Coupling unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "Shaft seal unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "Sleeve unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "Top unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "Motor",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "Pump-end",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "Coupling unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "Shaft seal unit",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "4.1.0-1",
+      "target": "Packing",
+      "value": ">allocated_to"
+     },
+     {
+      "source": "s2.1.0-1",
+      "target": "1.2.0-1",
+      "value": ">satisfies"
+     },
+     {
+      "source": "s2.1.0-1",
+      "target": "2.3.0-1",
+      "value": ">satisfies"
+     },
+     {
+      "source": "s2.3.0-1",
+      "target": "1.2.0-1",
+      "value": ">satisfies"
+     },
+     {
+      "source": "s2.4.0-1",
+      "target": "4.1.0-1",
+      "value": ">satisfies"
+     },
+     {
+      "source": "s8.1.0-1",
+      "target": "4.2.0-1",
+      "value": ">satisfies"
+     },
+     {
+      "source": "1.1.0-1",
+      "target": "150110_142812_54146",
+      "value": ">verified_by",
+      "results": "Passed"
+     },
+     {
+      "source": "1.2.0-1",
+      "target": "190415_071654_1310",
+      "value": ">verified_by",
+      "results": "Failed"
+     },
+     {
+      "source": "1.2.0-1",
+      "target": "140508_152322_51646",
+      "value": ">verified_by",
+      "results": "Passed"
+     },
+     {
+      "source": "2.1.0-1",
+      "target": "150110_142812_54146",
+      "value": ">verified_by",
+      "results": "Passed"
+     },
+     {
+      "source": "2.2.0-1",
+      "target": "190415_071654_1310",
+      "value": ">verified_by",
+      "results": "Failed"
+     },
+     {
+      "source": "2.3.0-1",
+      "target": "150110_142812_54146",
+      "value": ">verified_by",
+      "results": "Passed"
+     },
+     {
+      "source": "2.3.0-2",
+      "target": "190415_071654_1310",
+      "value": ">verified_by",
+      "results": "Failed"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "190415_071654_1310",
+      "value": ">verified_by",
+      "results": "Failed"
+     },
+     {
+      "source": "3.1.0-1",
+      "target": "140508_152322_51646",
+      "value": ">verified_by",
+      "results": "Passed"
+     }
+    ]
+   }

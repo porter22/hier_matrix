@@ -1,0 +1,104 @@
+{
+  "nodes": [
+    {
+      "name": "requirements",
+      "children": [
+        {
+          "name": "requirement1",
+          "children": [
+            {
+              "name": "subrequirement1-1"
+            },
+            {
+              "name": "subrequirement1-2"
+            },
+            {
+              "name": "subrequirement1-3"
+            }
+          ]
+        },
+        {
+          "name": "requirement2",
+          "children": [
+            {
+              "name": "subrequirement2-1"
+            }
+          ]
+        },
+        {
+          "name": "requirement3",
+          "children": [
+            {
+              "name": "subrequirement3-1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tasks",
+      "children": [
+        {
+          "name": "task1",
+          "children": [
+            {
+              "name": "subtask1-1"
+            },
+            {
+              "name": "subtask1-2"
+            },
+            {
+              "name": "subtask1-3"
+            }
+          ]
+        },
+        {
+          "name": "task2",
+          "children": [
+            {
+              "name": "subtask2-1"
+            }
+          ]
+        },
+        {
+          "name": "task3",
+          "children": [
+            {
+              "name": "subtask3-1"
+            },
+            {
+              "name": "subtask3-2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "subrequirement1-1",
+      "target": "subtask1-1",
+      "value": "allocates"
+    },
+    {
+      "source": "subtask1-1",
+      "target": "subtask2-1",
+      "value": "allocates"
+    },
+    {
+      "source": "subtask2-1",
+      "target": "subtask3-1",
+      "value": "has_parent"
+    },
+    {
+      "source": "subrequirement2-1",
+      "target": "subtask2-1",
+      "value": "is_contained_by"
+    },
+    {
+      "source": "subrequirement3-1",
+      "target": "subtask3-1",
+      "value": "allocates"
+    }
+  ]
+}
